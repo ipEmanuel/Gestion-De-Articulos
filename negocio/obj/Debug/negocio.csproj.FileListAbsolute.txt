@@ -1,0 +1,9 @@
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\bin\Debug\negocio.dll
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\bin\Debug\negocio.pdb
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\bin\Debug\domino.dll
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\bin\Debug\domino.pdb
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\obj\Debug\negocio.dll
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\obj\Debug\negocio.pdb
+C:\Users\Administrador\Documents\Documentos\C# Nivel2\TPFinalNivel2_Infante\negocio\obj\Debug\negocio.csproj.Up2Date
